@@ -1,0 +1,16 @@
+.project {
+  li {
+    .project_name {
+      font-weight: bold;
+    }
+    .desc {
+      .project_type {
+        margin-right: 10px;
+        font-style: italic;
+      }
+      padding-top: 5px;
+    }
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}

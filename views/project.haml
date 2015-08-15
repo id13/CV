@@ -3,9 +3,10 @@
   %ul
     - @project.each do |member|
       %li 
-        %span.project_name #{member['name']} 
-        %span.project_type #{member['type']}
+        %h3.project_name #{member['name']} 
         %ul
           -member["skills"].each do |skill|
             %li{class:skill.css_class} #{skill}
-        =member["description"]
+        .desc
+          %span.project_type #{member['type']}
+          =member["description"]

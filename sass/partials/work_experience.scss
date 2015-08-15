@@ -1,0 +1,25 @@
+.work-experience {
+  li {
+    h3 {
+      .company {
+        font-weight: bold;
+      }
+      .space {
+        float: right;
+      }      
+    }
+    .desc {
+      .role {
+        margin-right: 10px;
+        font-style: italic;
+      }
+      padding-top: 5px;
+    }
+    .time {
+      margin-top: 5px;
+      font-weight: lighter;
+    }
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}

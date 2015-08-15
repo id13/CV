@@ -1,14 +1,7 @@
 .skillset
   %h2 Skills
-  -# TODO: figure out a way to display it properly
-  .lang-75
-    %span.lang English
-    %span.desc Full professional proficiency
-  .lang-100
-    %span.lang French
-    %span.desc Native proficiency
-
-  -@skillset.each_with_index do |(name, skills),index|
+  
+  - @skillset.each_with_index do |(name, skills),index|
     %div{class:"skillset-#{index%3 + 1}"}
       %h3 #{name}
       %ul#skills

@@ -12,9 +12,10 @@
     "AngularJS",
     "JQuery"
   ],
-  "Data":[
-    "SQL",
-    "Model design"
+  "Security":[
+    "Network security",
+    "Application security",
+    "Cryptography"
   ],
   "Operating system":[
     "libC",
@@ -37,11 +38,12 @@
     "Application architecture",
     "Restful architecture",
     "Project management",
-    "State of the art review"
+    "State of the art review",
+    "English - Full professional proficiency",
+    "French - Native proficiency"
   ],
-  "Security":[
-  "Network security",
-  "Application security",
-  "Cryptography"
+  "Data":[
+    "SQL",
+    "Model design"
   ]
 }

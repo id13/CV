@@ -1,6 +1,7 @@
 @import "zen";
+
 $zen-column-count: 12; // Set the total number of columns in the grid.
-$zen-gutter-width: 10px; 
+$zen-gutter-width: 15px; 
 
 .container {
   @include zen-grid-container;   
@@ -12,6 +13,11 @@ $zen-gutter-width: 10px;
 
 .work-experience {
   @include zen-grid-item(6, 7);
+}
+
+.skillset {
+  @include zen-clear();
+  @include zen-grid-item(12, 1);  
 }
 
 .skillset-1 {
