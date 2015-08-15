@@ -1,0 +1,48 @@
+{
+  "Backend":[
+    "Ruby on Rails",
+    "Django",
+    "Java EE",
+    "Spring Boot"
+  ],
+  "Frontend":[
+    "XHTML",
+    "Bootstrap",
+    "Sass-Compass",
+    "CoffeeScript",
+    "AngularJS",
+    "JQuery"
+  ],
+  "Data":[
+    "SQL",
+    "Model design"
+  ],
+  "Operating system":[
+    "libC",
+    "ASM",
+    "Unix memory management",
+    "Unix process management",
+    "Unix administration",
+    "Concurent programming"
+  ],
+  "Network":[
+    "Layers [2,4] of OSI",
+    "TCP",
+    "UDP",
+    "HTTP/1.1",
+    "DNS",
+    "SIP",
+    "WebRTC API"
+  ],
+  "Security":[
+  "Network security",
+  "Application security",
+  "Cryptography"
+  ],
+  "Miscellaneous":[
+    "Application architecture",
+    "Restful architecture",
+    "Project management",
+    "State of the art review"
+  ]
+}

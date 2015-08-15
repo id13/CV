@@ -1,0 +1,48 @@
+[
+  {
+    "name":"MitM attacks against HTTPS over public wifi networks", 
+    "skills":[
+      "[2,4] of OSI",
+      "Network security",
+      "System security",
+      "State of the art review",
+      "DNS",
+      "HTTP",
+      "TCP",
+      "Cryptography"
+    ], 
+    "type":"School project", "description":"Feasability study, and implementation of attacks on HTTPS over public wifi networks against users' privacy"
+  },
+  {
+    "name":"Theater booking web application", 
+    "skills":[
+      "Java EE", 
+      "XHTML", 
+      "SQL", 
+      "Model design", 
+      "Application architecture", "Bootstrap", 
+      "JQuery"
+    ], 
+    "type":"School project",
+    "description":"Database design, backend and frontend implementation of a booking website for theaters"
+  },
+  {
+    "name":"Deca compiler", 
+    "skills":[
+      "ASM",
+      "Java",
+      "Project management"
+    ], 
+    "type":"School project",
+    "descriBption":"A compiler which takes Deca (a subset of Java) as an input and outputs Assembly for the Motorola 68000 (simulated)."
+  },
+  {
+    "name":"ENSIShell", "skills":[
+      "Concurent programming",
+      "libC",
+      "Unix process management"
+    ], 
+    "type":"School project", 
+    "description": "Implementation of a shell (using readline) which handles jobs."
+  }
+]

@@ -1,0 +1,11 @@
+.project
+  %h2 Projects
+  %ul
+    - @project.each do |member|
+      %li 
+        :markdown
+          __#{member['name']}__, *#{member['type']}*
+        %ul
+          -member["skills"].each do |skill|
+            %li{class:skill.css_class} #{skill}
+        =member["description"]

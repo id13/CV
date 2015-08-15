@@ -1,0 +1,11 @@
+.education
+  %h2 Education
+  %ul
+    - @education.each do |education|
+      %li
+        .duration #{education["duration"]}
+        %span.name #{education["name"]}
+        %span.university #{education["university"]}
+        %span.place #{education["place"]}
+        %span.description #{education["description"]}
+      

@@ -1,0 +1,36 @@
+[
+  {
+    "company":"Inch",
+    "role":"Developper intern",
+    "place":"Paris, France",
+    "description":"",
+    "skills":[
+      "Ruby on Rails",
+      "XHTML",
+      "Bootstrap",
+      "Compass",
+      "AngularJS",
+      "Application security",
+      "Model design",
+      "Application architecture", 
+      "Restful architecture", 
+      "System administration"
+    ], 
+    "date":"06/2015 - 09/2015"
+  },
+  {
+    "company":"Junior Conseil Phelma",
+    "role":"CTO",
+    "place":"Grenoble, France",
+    "description":"",
+    "skills":[
+      "System administration", 
+      "XHTML", 
+      "Bootstrap", 
+      "JQuery", 
+      "Django",
+      "Project management"
+    ], 
+    "date":"02/2014 - 02/2015"
+  }
+]

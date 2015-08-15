@@ -1,0 +1,13 @@
+%page
+  
+  - if @education
+    = haml :education
+
+  - if @skillset
+    = haml :skillset
+  
+  - if @project
+    = haml :project
+  
+  - if @work_experience
+    = haml :work_experience

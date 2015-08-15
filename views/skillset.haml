@@ -1,0 +1,16 @@
+.skillset
+  %h2 Skills
+  -# TODO: figure out a way to display it properly
+  .lang-75
+    %span.lang English
+    %span.desc Full professional proficiency
+  .lang-100
+    %span.lang French
+    %span.desc Native proficiency
+
+  -@skillset.each do |name, skills|
+    .skill-set
+      %h3 #{name}
+      %ul#skills
+        -skills.each do |skill|
+          %li{class:skill.css_class} #{skill}

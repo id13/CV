@@ -1,0 +1,13 @@
+.work-experience
+  %h2 Working experience
+  %ul
+    - @work_experience.each do |member|
+      %li
+        %span.company #{member['company']} 
+        %span.role #{member['role']} 
+        %span.space #{member['place']} 
+        %span.time #{member['date']}
+        %ul
+          -member['skills'].each do |skill|
+            %li{class:skill.css_class} #{skill}
+        =member['description']          
