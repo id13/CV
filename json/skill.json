@@ -5,7 +5,7 @@
   "css":["css","bootstrap","compass","sass"],
   "js":["coffeescript","angularjs","jquery"],
   "sql":["sql"],
-  "system":["libc","concurent programming","asm","application security"],
+  "system":["libc","concurent programming","assembly","application security"],
   "unix":["unix administration", "unix process management", "unix memory management"],
   "network":["[2,4] of osi","network security"],
   "OSI7":["tcp","udp", "http", "dns", "sip", "webrtc"],

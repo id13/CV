@@ -19,7 +19,7 @@
   ],
   "Operating system":[
     "libC",
-    "ASM",
+    "Assembly",
     "Unix memory management",
     "Unix process management",
     "Unix administration",
