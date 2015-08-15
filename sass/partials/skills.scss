@@ -1,5 +1,70 @@
+@import "compass/css3";
 @mixin skill_block($color) {
   @include inline-block;
   padding: 4px 10px;
-  color: white;
+  margin: 2.5px;
+  color: $color + #AAAAAA;
+  background-color: $color;
+  border-radius: 5px;
+  font-family: Inconsolata;
+}
+
+.java {
+  @include skill_block(#001f3f);
+}
+
+.js {
+  @include skill_block(#5BB4CC);
+}
+
+.python {
+  @include skill_block(#0074D9);
+}
+
+.default {
+  @include skill_block(#AAAAAA);
+}
+
+.ruby {
+  @include skill_block(#990000);
+}
+
+.css {
+  @include skill_block(#FF9900);
+}
+
+.markup {
+  @include skill_block(#EFD700);
+}
+
+.network {
+  @include skill_block(#8EC127);
+}
+
+.math {
+  @include skill_block(#5ECC40);
+}
+
+.OSI7 {
+  @include skill_block(#5DEE70);
+}
+
+.design {
+  @include skill_block(#85144b);
+}
+
+.misc {
+  @include skill_block(#C30074);
+}
+
+.system {
+  @include skill_block(#333333);
+}
+
+.unix {
+  @include skill_block(#666666);
+}
+
+.sql {
+  @include skill_block(#F6546A);
 }

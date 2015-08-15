@@ -12,9 +12,10 @@
       "AngularJS",
       "Application security",
       "Model design",
+      "SQL",
       "Application architecture", 
       "Restful architecture", 
-      "System administration"
+      "Unix administration"
     ], 
     "date":"06/2015 - 09/2015"
   },
@@ -24,11 +25,12 @@
     "place":"Grenoble, France",
     "description":"",
     "skills":[
-      "System administration", 
+      "Unix administration", 
       "XHTML", 
       "Bootstrap", 
       "JQuery", 
       "Django",
+      "SQL",
       "Project management"
     ], 
     "date":"02/2014 - 02/2015"

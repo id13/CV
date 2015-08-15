@@ -4,12 +4,12 @@
     "skills":[
       "[2,4] of OSI",
       "Network security",
-      "System security",
       "State of the art review",
       "DNS",
       "HTTP",
       "TCP",
-      "Cryptography"
+      "Cryptography",
+      "Python"
     ], 
     "type":"School project", "description":"Feasability study, and implementation of attacks on HTTPS over public wifi networks against users' privacy"
   },
