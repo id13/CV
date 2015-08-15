@@ -10,3 +10,5 @@
         .desc
           %span.project_type #{member['type']}
           =member["description"]
+      - if @project.last != member
+        %hr.dashed

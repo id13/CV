@@ -13,3 +13,5 @@
           %span.role #{member['role']} 
           =member['description']          
         .time #{member['date']}
+      - if @work_experience.last != member
+        %hr.dashed
