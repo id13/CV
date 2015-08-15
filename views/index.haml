@@ -3,16 +3,18 @@
     %link(href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css")
     %link(href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css")
   %body
-    %page
-      
+    .container
       - if @education
         = haml :education
-
+        
+    .container
       - if @skillset
         = haml :skillset
-      
+
+    .container
+
       - if @project
         = haml :project
-      
+
       - if @work_experience
         = haml :work_experience

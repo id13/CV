@@ -3,8 +3,8 @@
   %ul
     - @project.each do |member|
       %li 
-        :markdown
-          __#{member['name']}__, *#{member['type']}*
+        %span.project_name #{member['name']} 
+        %span.project_type #{member['type']}
         %ul
           -member["skills"].each do |skill|
             %li{class:skill.css_class} #{skill}

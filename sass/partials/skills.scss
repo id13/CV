@@ -1,12 +1,15 @@
 @import "compass/css3";
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
+
 @mixin skill_block($color) {
   @include inline-block;
-  padding: 4px 10px;
+  padding: 4px 8px;
   margin: 2.5px;
   color: $color + #AAAAAA;
   background-color: $color;
   border-radius: 5px;
-  font-family: Inconsolata;
+  font-family: Oxygen;
+  font-size: 0.7em;
 }
 
 .java {
@@ -38,15 +41,15 @@
 }
 
 .network {
-  @include skill_block(#8EC127);
+  @include skill_block(#006F70);
 }
 
 .math {
-  @include skill_block(#5ECC40);
+  @include skill_block(#009F70);
 }
 
 .OSI7 {
-  @include skill_block(#5DEE70);
+  @include skill_block(#00CF70);
 }
 
 .design {

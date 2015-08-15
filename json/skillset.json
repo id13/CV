@@ -33,15 +33,15 @@
     "SIP",
     "WebRTC API"
   ],
-  "Security":[
-  "Network security",
-  "Application security",
-  "Cryptography"
-  ],
   "Miscellaneous":[
     "Application architecture",
     "Restful architecture",
     "Project management",
     "State of the art review"
+  ],
+  "Security":[
+  "Network security",
+  "Application security",
+  "Cryptography"
   ]
 }

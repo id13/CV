@@ -1,9 +1,6 @@
-@import "blueprint";
 
-// To generate css equivalent to the blueprint css but with your configuration applied, uncomment:
-// @include blueprint-print
+@import "compass/reset";
 
-//Recommended Blueprint configuration with scoping and semantic layout:
-body.bp {
-  @include blueprint-print(true);
-}
+@import "partials/base";
+
+@import "compass/utilities";
