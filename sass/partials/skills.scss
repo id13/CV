@@ -1,0 +1,5 @@
+@mixin skill_block($color) {
+  @include inline-block;
+  padding: 4px 10px;
+  color: white;
+}
