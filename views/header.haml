@@ -1,0 +1,13 @@
+.header
+  %h1
+    .title 
+      = @header["title"]
+    .subtitle
+      = @header["subtitle"]
+      
+  %ul
+    - @header["contact"].each do |key, val|
+      %li
+        %span{class:["icon",key]}
+        %span.info 
+          = val

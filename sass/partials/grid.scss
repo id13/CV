@@ -27,3 +27,13 @@ $zen-gutter-width: 15px;
 .skillset-3 {
   @include zen-grid-item(4, 9);
 }
+
+.header {
+  @include zen-clear();
+  h1 {
+    @include zen-grid-item(7,1);
+  }
+  ul {
+    @include zen-grid-item(5,8);
+  }
+}

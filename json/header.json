@@ -1,0 +1,9 @@
+{
+  "title":"Jean-David Fiquet",
+  "subtitle":"Software engineer student",
+  "contact":{
+    "fa fa-github":"github.com/id13",
+    "fa fa-mobile":"+33 6 45 90 74 42",
+    "fa fa-envelope":"jean-david.fiquet@grenoble-inp.org"
+  }
+}

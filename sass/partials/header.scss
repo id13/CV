@@ -1,0 +1,18 @@
+.header {
+  li {
+    padding-top: 5px;
+    text-align: right;
+    .icon {
+      margin-right: 2.5px;
+    }
+  }
+  
+  h1 {
+    font-family: Bitter;
+    font-size: 3em;
+    .subtitle {
+      font-size: 0.7em;
+      color: #333333;
+    }
+  }
+}
