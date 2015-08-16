@@ -1,0 +1,45 @@
+.education {
+  ul {
+    margin: 10px 10px 10px 110px;
+    padding-left: 30px;
+    border-left: 4px double black;
+    li {
+      margin: 20px 0;
+      position: relative;
+      
+      .duration {
+        margin-top: -15px;
+        top: 50%;
+        left: -136px;
+        line-height: 20px;
+        position: absolute;        
+      }
+      
+      .circle {
+        margin-top: -10px;
+        top: 50%;
+        left: -37px;
+        width: 6px;
+        height: 6px;
+        background-color: black;
+        border: 2px solid white;
+        border-radius: 50%;
+        display: block;
+        position: absolute;        
+      }
+      
+      .university {
+        float: right;
+      }
+      
+      .name {
+        font-weight: bold;
+      }
+      
+      .place {
+        float: right;
+        font-style: italic;
+      }
+    }
+  }
+}

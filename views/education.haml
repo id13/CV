@@ -4,8 +4,11 @@
     - @education.each do |education|
       %li
         .duration #{education["duration"]}
-        %span.name #{education["name"]}
-        %span.university #{education["university"]}
-        %span.place #{education["place"]}
-        %span.description #{education["description"]}
+        %span.circle
+        %div
+          %span.name #{education["name"]}
+          %span.university #{education["university"]}
+        %div  
+          %span.description #{education["description"]}
+          %span.place #{education["place"]}
       
