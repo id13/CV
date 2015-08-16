@@ -3,12 +3,13 @@
     "Ruby on Rails",
     "Django",
     "Java EE",
-    "Spring Boot"
+    "Spring Boot",
+    "Restful architecture"
   ],
   "Frontend":[
     "XHTML",
     "Bootstrap",
-    "Sass-Compass",
+    "Compass",
     "AngularJS",
     "JQuery"
   ],
@@ -36,9 +37,9 @@
   ],
   "Miscellaneous":[
     "Application architecture",
-    "Restful architecture",
-    "Project management",
+    "Test driven development",
     "State of the art review",
+    "Project management",
     "English - Full professional proficiency",
     "French - Native proficiency"
   ],

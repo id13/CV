@@ -21,7 +21,8 @@
       "SQL", 
       "Model design", 
       "Application architecture", "Bootstrap", 
-      "JQuery"
+      "JQuery",
+      "Test driven development"
     ], 
     "type":"School project",
     "description":"Database design, backend and frontend implementation of a ticket booking website for theaters."

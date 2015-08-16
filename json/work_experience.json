@@ -3,7 +3,7 @@
     "company":"InchBase",
     "role":"Full-stack developper intern",
     "place":"Paris, France",
-    "description":"",
+    "description":"Development of new features, code review and testing of the SaaS products of InchBase.",
     "skills":[
       "Ruby on Rails",
       "XHTML",
@@ -15,15 +15,16 @@
       "SQL",
       "Application architecture", 
       "Restful architecture", 
-      "Unix administration"
+      "Unix administration",
+      "Test driven development"
     ], 
     "date":"06/2015 - 09/2015"
   },
   {
     "company":"Junior Conseil Phelma",
-    "role":"CTO",
+    "role":"IT Manager",
     "place":"Grenoble, France",
-    "description":"",
+    "description":"In charge of all communication means (website, intranet, computers) of the Junior Entreprise of Grenoble Institute of Technology - Phelma.",
     "skills":[
       "Unix administration", 
       "XHTML", 
