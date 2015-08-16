@@ -15,11 +15,6 @@ $zen-gutter-width: 15px;
   @include zen-grid-item(6, 7);
 }
 
-.skillset {
-  @include zen-clear();
-  @include zen-grid-item(12, 1);  
-}
-
 .skillset-1 {
   @include zen-clear();
   @include zen-grid-item(4, 1);

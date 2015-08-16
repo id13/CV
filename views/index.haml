@@ -2,17 +2,16 @@
   %head
     %link(href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css")
   %body
-    .container
-      - if @education
+    - if @education
+      .container
         = haml :education
-        
-    %hr.fancy    
-        
-    .container
-      - if @skillset
+      %hr.fancy    
+      
+      
+    - if @skillset
+      .container
         = haml :skillset
-
-    %hr.fancy    
+      %hr.fancy    
 
     .container
 
