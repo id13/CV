@@ -4,7 +4,7 @@
   "python":["django","python"],
   "css":["css","bootstrap","compass","sass"],
   "js":["coffeescript","angularjs","jquery"],
-  "sql":["sql"],
+  "sql":["sql", "data qualification"],
   "system":["libc","concurent programming","assembly","application security"],
   "unix":["unix administration", "unix process management", "unix memory management"],
   "network":["[2,4] of osi","network security"],
