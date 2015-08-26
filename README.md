@@ -1,5 +1,5 @@
 # CV
-A very opinionated skills oriented CV template, preview here : https://goo.gl/3DQmRc .
+A very opinionated skills oriented CV template.
 
 ## Install
 * `bundle install`
