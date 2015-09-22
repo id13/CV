@@ -21,8 +21,7 @@
   "Operating system":[
     "libC",
     "Assembly",
-    "Unix memory management",
-    "Unix process management",
+    "Memory and process management",
     "Unix administration",
     "Concurent programming"
   ],
@@ -36,7 +35,9 @@
     "Application architecture",
     "Test driven development",
     "State of the art review",
-    "Project management",
+    "Project management"
+  ],
+  "Languages":[    
     "English - Full professional proficiency",
     "French - Native proficiency"
   ],

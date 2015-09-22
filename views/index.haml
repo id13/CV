@@ -13,15 +13,14 @@
         = haml :education
       %hr.fancy    
       
-      
-    - if @skillset
-      .container
-        = haml :skillset
-      %hr.fancy    
-
     - if @project
       = haml :project
       %hr.fancy
       
     - if @work_experience
       = haml :work_experience
+      %hr.fancy    
+
+    - if @skillset
+      .container
+        = haml :skillset
