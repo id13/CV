@@ -4,69 +4,77 @@
   @include inline-block;
   padding: 4px 8px;
   margin: 2.5px;
-  color: $color + #AAAAAA;
+  color: white;
   background-color: $color;
   border-radius: 5px;
   font-family: Oxygen;
-  font-size: 0.7em;
+  font-size: 0.80em;
+}
+
+.technology {
+  @include skill_block(#631F28);
+}
+
+.computer-science {
+  @include skill_block(#816100);
 }
 
 .java {
-  @include skill_block(#001f3f);
+  @extend .technology;
 }
 
 .js {
-  @include skill_block(#5BB4CC);
+  @extend .technology;
 }
 
 .python {
-  @include skill_block(#0074D9);
+  @extend .technology;
 }
 
 .default {
-  @include skill_block(#AAAAAA);
+  @extend .misc;
 }
 
 .ruby {
-  @include skill_block(#990000);
+  @extend .technology;
 }
 
 .css {
-  @include skill_block(#FF9900);
+  @extend .technology;
 }
 
 .markup {
-  @include skill_block(#EFD700);
+  @extend .technology;
 }
 
 .network {
-  @include skill_block(#006F70);
+  @extend .computer-science;
 }
 
 .math {
-  @include skill_block(#009F70);
+  @extend .computer-science;
 }
 
 .OSI7 {
-  @include skill_block(#00CF70);
+  @extend .computer-science;
 }
 
 .design {
-  @include skill_block(#85144b);
+  @extend .computer-science;
 }
 
 .misc {
-  @include skill_block(#C30074);
+  @include skill_block(#3B3E5D);
 }
 
 .system {
-  @include skill_block(#333333);
+  @extend .computer-science;
 }
 
 .unix {
-  @include skill_block(#666666);
+  @extend .computer-science;
 }
 
 .sql {
-  @include skill_block(#F6546A);
+  @extend .technology;
 }
