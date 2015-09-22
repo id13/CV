@@ -7,14 +7,6 @@ $zen-gutter-width: 10px;
   @include zen-grid-container;   
 }
 
-.project {
-  @include zen-grid-item(6, 1);
-}
-
-.work-experience {
-  @include zen-grid-item(6, 7);
-}
-
 .skillset-1 {
   @include zen-clear();
   @include zen-grid-item(4, 1);

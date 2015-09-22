@@ -19,10 +19,9 @@
         = haml :skillset
       %hr.fancy    
 
-    .container
-
-      - if @project
-        = haml :project
-
-      - if @work_experience
-        = haml :work_experience
+    - if @project
+      = haml :project
+      %hr.fancy
+      
+    - if @work_experience
+      = haml :work_experience
