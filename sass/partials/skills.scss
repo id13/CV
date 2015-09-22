@@ -8,7 +8,7 @@
   background-color: $color;
   border-radius: 5px;
   font-family: Oxygen;
-  font-size: 0.80em;
+  font-size: 0.9em;
 }
 
 .technology {
@@ -17,6 +17,10 @@
 
 .computer-science {
   @include skill_block(#816100);
+}
+
+.low-level-programming {
+  @extend .technology;
 }
 
 .java {

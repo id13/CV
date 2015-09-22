@@ -10,15 +10,19 @@
       }      
     }
     .desc {
-      .role {
+      padding-top: 10px;
+      .infos {
         margin-right: 10px;
-        font-weight: bolder;
+        margin-bottom: 10px;
+        float: left;
+        .time {
+          margin-top: 5px;
+          font-weight: lighter;
+        }
+        .role {
+          font-weight: bolder;
+        }
       }
-      padding-top: 5px;
-    }
-    .time {
-      margin-top: 5px;
-      font-weight: lighter;
     }
   }
 }

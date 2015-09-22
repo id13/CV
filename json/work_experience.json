@@ -1,13 +1,12 @@
 [
   {
-    "company":"InchBase",
+    "company":"Inch",
     "role":"Full-stack developper intern",
     "place":"Paris, France",
     "description":"Development of new features, code review and testing of the SaaS products of InchBase.",
     "skills":[
       "Ruby on Rails",
       "XHTML",
-      "Bootstrap",
       "Compass",
       "AngularJS",
       "Application security",

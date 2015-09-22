@@ -10,8 +10,9 @@
           -member['skills'].each do |skill|
             %li{class:skill.css_class} #{skill}
         .desc
-          %span.role #{member['role']} 
+          .infos
+            %p.role #{member['role']} 
+            %p.time #{member['date']}
           =member['description']          
-        .time #{member['date']}
       - if @work_experience.last != member
         %hr.dashed
