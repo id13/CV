@@ -2,7 +2,7 @@
   {
     "name":"MitM attacks against HTTPS over public wifi networks", 
     "skills":[
-      "[2,4] of OSI",
+      "Layers [2,4] of OSI",
       "Network security",
       "State of the art review",
       "DNS",
