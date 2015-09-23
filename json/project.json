@@ -11,7 +11,7 @@
       "Cryptography",
       "Python"
     ], 
-    "type":"School project", "description":"Feasability study, and implementation of attacks on HTTPS over public wifi networks against users' privacy."
+    "type":"School project", "description":"Feasability study, and implementation of attacks on HTTPS trafic over public wifi networks. Study of the consequences for the users' data and privacy."
   },
   {
     "name":"Theater tickets booking web application", 
@@ -25,7 +25,7 @@
       "Test driven development"
     ], 
     "type":"School project",
-    "description":"Database design, backend and frontend implementation of a ticket booking website for theaters."
+    "description":"Functional analysis, database design, backend and frontend implementation of a ticket booking website for theaters."
   },
   {
     "name":"Deca compiler", 
@@ -44,6 +44,6 @@
       "Unix process management"
     ], 
     "type":"School project", 
-    "description": "Implementation of a shell (using readline) which handles jobs."
+    "description": "Implementation of a shell (using readline for parsing) which handles background jobs, pipes and globbing."
   }
 ]

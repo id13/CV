@@ -1,9 +1,9 @@
 [
   {
     "company":"Inch",
-    "role":"Full-stack developper intern",
+    "role":"Backend developper intern",
     "place":"Paris, France",
-    "description":"Development of new features, code review and testing of the SaaS products of InchBase.",
+    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup, mainly for backend, also frontend.",
     "skills":[
       "Ruby on Rails",
       "XHTML",
@@ -25,7 +25,7 @@
     "company":"Junior Conseil Phelma",
     "role":"IT Manager",
     "place":"Grenoble, France",
-    "description":"In charge of all communication means (website, intranet, computers) of the Junior Entreprise of Grenoble Institute of Technology - Phelma.",
+    "description":"In charge of all communication means, either external (website, posters) or internal (intranet, computers) of the Junior Entreprise at Grenoble Institute of Technology - Phelma.",
     "skills":[
       "Unix administration", 
       "XHTML", 
