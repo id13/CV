@@ -1,9 +1,15 @@
 .education {
+  // font-size: 0.90em;
   ul {
     margin: 0px 10px 10px 110px;
     padding-top: 1px;
     padding-left: 30px;
     border-left: 4px double black;
+    li:first-child{
+      margin: 0;
+      margin-bottom: 20px;
+      margin-top: 10px;
+    }
     li {
       margin: 20px 0;
       position: relative;
@@ -34,7 +40,7 @@
       }
       
       .name {
-        font-weight: bold;
+        font-weight: bolder;
       }
       
       .place {
