@@ -1,9 +1,9 @@
 [
   {
     "company":"Inch",
-    "role":"Backend developper intern",
+    "role":"Backend developer intern",
     "place":"Paris, France",
-    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup, mainly for backend, also frontend.",
+    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup which helps property management professionals in their day-to-day business and in their communication with residents. Backend developers at Inch also have to know about frontend, to enhance integration between the two sides.",
     "skills":[
       "Ruby on Rails",
       "XHTML",
@@ -13,7 +13,7 @@
       "Model design",
       "SQL",
       "Data qualification",
-      "Application architecture", 
+      "Software design", 
       "Restful architecture", 
       "Unix administration",
       "Test driven development",

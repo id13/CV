@@ -11,7 +11,7 @@
   "network":["[2,4] of osi","network security"],
   "OSI7":["tcp","udp", "http", "dns", "sip", "webrtc", "application layer protocols"],
   "math":["cryptography"],
-  "design":["application architecture", "restful architecture", "model design", "data qualification"],
+  "design":["software design", "restful architecture", "model design", "data qualification"],
   "misc":["project management","state of the art review","test driven development"],
   "markup":["html","xml","latex"]
 }
