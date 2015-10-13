@@ -1,10 +1,10 @@
 [
   {
-    "name":"Higher School Preparatory Class", 
-    "duration":"2011 - 2013", 
-    "place":"Metz, France", 
-    "university":"", 
-    "description":"Mathematics, physics, engineering sciences."
+    "name":"Master's Degree in Computer Science", 
+    "duration":"2014 - Actual", 
+    "place":"Grenoble, France", 
+    "university":"Grenoble Institute of Technology - Ensimag", 
+    "description":"Computer Science, Telecommunications."
   },
   {
     "name":"Bachelor's Degree in Engineering Science", 
@@ -14,10 +14,10 @@
     "description":"Physics, Electronics, Telecommunications."
   },
   {
-    "name":"Master's Degree in Computer Science", 
-    "duration":"2014 - Actual", 
-    "place":"Grenoble, France", 
-    "university":"Grenoble Institute of Technology - Ensimag", 
-    "description":"Computer Science, Telecommunications."
+    "name":"Higher School Preparatory Class", 
+    "duration":"2011 - 2013", 
+    "place":"Metz, France", 
+    "university":"", 
+    "description":"Mathematics, physics, engineering sciences."
   }
 ]
