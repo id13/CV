@@ -33,7 +33,7 @@ private
     hash.define_singleton_method :skill_css_class do |skill_name|
       empty? ? "default" : select { |key, value| 
         value.select { |skill| 
-          skill_name.downcase.include?(skill)
+          skill_name.downcase.include?(skill) || skill.include?(skill_name.downcase)
         }.any?
       }.keys.first || "default"
     end

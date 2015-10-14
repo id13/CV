@@ -41,7 +41,7 @@
     "name":"ENSIShell", "skills":[
       "Concurent programming",
       "libC",
-      "Unix process management"
+      "Process management"
     ], 
     "type":"School project", 
     "description": "Implementation of a shell (using readline for parsing) which handles background jobs, pipes and globbing."
