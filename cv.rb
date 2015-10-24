@@ -23,7 +23,7 @@ private
       file = File.read(path) 
       hash = JSON.parse(file)
       # I assume json files do not have '/', '.' in their names
-      filename = (path.split('/'))[1].split('.')[0]
+      filename = (path.split('/'))[-1].split('.')[0]
       instance_variable_set("@#{filename}".to_sym, hash)
     end
   end
