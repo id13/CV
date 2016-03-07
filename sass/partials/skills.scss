@@ -2,13 +2,13 @@
 
 @mixin skill_block($color) {
   @include inline-block;
-  padding: 4px 8px;
-  margin: 2.5px;
-  color: white;
-  background-color: $color;
+  color: black;
   border-radius: 5px;
+  font-size: 8px;
+  padding: 3px 6px;
+  margin: 2.5px;
+  border: 1px solid black;
   font-family: Oxygen;
-  font-size: 12px;
 }
 
 .technology {

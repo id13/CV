@@ -4,11 +4,11 @@
     - @project.each do |member|
       %li 
         %h3.project_name #{member['name']} 
-        %ul
-          -member["skills"].each do |skill|
-            %li{class:skill.css_class} #{skill}
         .desc
           %span.project_type #{member['type']}
           =member["description"]
+        %ul
+          -member["skills"].each do |skill|
+            %li{class:skill.css_class} #{skill}
       - if @project.last != member
         %hr.dashed

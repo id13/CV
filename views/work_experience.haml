@@ -6,13 +6,13 @@
         %h3
           %span.company #{member['company']} 
           %span.space #{member['place']} 
+        .desc
+          .infos
+            %p.role #{member['role']}
+            %p.time #{member['date']}
+          =member['description']
         %ul
           -member['skills'].each do |skill|
             %li{class:skill.css_class} #{skill}
-        .desc
-          .infos
-            %p.role #{member['role']} 
-            %p.time #{member['date']}
-          =member['description']          
       - if @work_experience.last != member
         %hr.dashed

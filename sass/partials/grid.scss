@@ -7,17 +7,28 @@ $zen-gutter-width: 10px;
   @include zen-grid-container;   
 }
 
-.skillset-1 {
-  @include zen-clear();
+.skillset {
+  font-size: 1.1em;
   @include zen-grid-item(4, 1);
 }
 
+.professional {
+  @include zen-grid-item(8, 5);
+  border-left: 3px double black;
+  padding-left: 10px;
+}
+
+.skillset-1 {
+  @include zen-clear();
+  @include zen-grid-container;
+}
+
 .skillset-2 {
-  @include zen-grid-item(4, 5);
+  @extend .skillset-1;
 }
 
 .skillset-3 {
-  @include zen-grid-item(4, 9);
+  @extend .skillset-1;
 }
 
 .header {

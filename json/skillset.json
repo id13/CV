@@ -1,49 +1,40 @@
 {
-  "Backend":[
+  "Frameworks":[
     "Ruby on Rails",
     "Django",
-    "Java EE",
-    "Spring Boot",
-    "Restful architecture"
+    "Java EE"
   ],
-  "Frontend":[
-    "XHTML",
-    "Bootstrap",
-    "Compass",
-    "AngularJS",
-    "JQuery"
+  "Network":[
+    "Layers [2,4] of OSI",
+    "Application layer protocols",
+    "Network administration",
+    "Security"
   ],
-  "Security":[
-    "Network security",
-    "Application security",
-    "Cryptography"
+  "Data":[
+    "SQL",
+    "Database design",
+    "NoSQL",
+    "Data qualification"
   ],
   "Operating system":[
     "libC",
     "Assembly",
     "Memory and process management",
     "Unix administration",
-    "Concurent programming"
+    "Concurrent programming",
+    "Hypervisors"
   ],
-  "Data":[
-    "SQL",
-    "Model design",
-    "NoSQL",
-    "Data qualification"  
-  ],
-  "Miscellaneous":[
+  "DevOps":[
     "Software design",
     "Distributed systems",
     "Test driven development",
     "State of the art review",
-    "Project management"
+    "Project management",
+    "Restful architecture",
+    "Cloud orchestration"
   ],
-  "Languages":[    
-    "English - Full professional proficiency",
-    "French - Native proficiency"
-  ],
-  "Network":[
-    "Layers [2,4] of OSI",
-    "Application layer protocols"
+  "Languages":[
+    "English ",
+    "French"
   ]
 }

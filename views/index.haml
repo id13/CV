@@ -11,16 +11,13 @@
     - if @education
       .container
         = haml :education
-      %hr.fancy    
-      
-    - if @project
-      = haml :project
-      %hr.fancy
-      
-    - if @work_experience
-      = haml :work_experience
-      %hr.fancy    
-
-    - if @skillset
-      .container
+    %hr.solid
+    .container
+      - if @skillset
         = haml :skillset
+      .professional
+        - if @work_experience
+          = haml :work_experience
+        %hr.solid
+        - if @project
+          = haml :project

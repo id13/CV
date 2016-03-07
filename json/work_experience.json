@@ -1,16 +1,29 @@
 [
   {
+    "company":"IBM",
+    "role":"Software engineering intern",
+    "place":"Montpellier, France",
+    "description":"Development of a Cloud PaaS to provide Proof of Technology as a Service at Benchmark Power Systems department. The project is based on both Openstack and IBM Power specific components.",
+    "skills":[
+      "OpenStack",
+      "Network administration",
+      "Unix administration",
+      "Django",
+      "Cloud orchestration",
+      "KVM",
+      "Deployment automation",
+      "IBM Power technologies"
+    ],
+    "date":"02/2016 - Actual"
+  },
+  {
     "company":"Inch",
-    "role":"Backend developer intern",
+    "role":"Backend developer",
     "place":"Paris, France",
-    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup which helps property management professionals in their day-to-day business and in their communication with residents. Backend developers at Inch also have to know about frontend, to enhance integration between the two sides.",
+    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup which helps property management professionals in their day-to-day business and in their communication with residents. Firstly as an intern, then as a freelance developer.",
     "skills":[
       "Ruby on Rails",
-      "XHTML",
-      "Compass",
-      "AngularJS",
-      "Application security",
-      "Model design",
+      "Database design",
       "SQL",
       "Data qualification",
       "Software design", 
@@ -19,18 +32,15 @@
       "Test driven development",
       "NoSQL"
     ], 
-    "date":"06/2015 - 09/2015"
+    "date":"06/2015 - Actual"
   },
   {
     "company":"Junior Conseil Phelma",
-    "role":"IT Manager",
+    "role":"CIO",
     "place":"Grenoble, France",
-    "description":"In charge of all communication means, either external (website, posters) or internal (intranet, computers) of the Junior Entreprise at Grenoble Institute of Technology - Phelma.",
+    "description":"In charge of all communication means, either external (website) or internal (intranet), and the infrastructure (computers and servers) of the Junior Entreprise at Grenoble Institute of Technology - Phelma.",
     "skills":[
-      "Unix administration", 
-      "XHTML", 
-      "Bootstrap", 
-      "JQuery", 
+      "Unix administration",
       "Django",
       "SQL",
       "Project management"

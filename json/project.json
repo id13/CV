@@ -1,5 +1,16 @@
 [
   {
+    "name":"Totally ordered multicast",
+    "skills":[
+      "java.nio",
+      "Distributed systems",
+      "Events oriented programming",
+      "TCP",
+      "Software design"
+    ],
+    "type":"School project", "description":"Implementation of a totally ordered multicast (TOM) library. Features a messaging layer on top of java.nio and a higher level of TOM callback to be used in a non-blocking way inside a project."
+  },
+  {
     "name":"MitM attacks against HTTPS over public wifi networks", 
     "skills":[
       "Layers [2,4] of OSI",
@@ -8,42 +19,9 @@
       "DNS",
       "HTTP",
       "TCP",
-      "Cryptography",
+      "TLS",
       "Python"
     ], 
-    "type":"School project", "description":"Feasability study, and implementation of attacks on HTTPS trafic over public wifi networks. Study of the consequences for the users' data and privacy."
-  },
-  {
-    "name":"Theater tickets booking web application", 
-    "skills":[
-      "Java EE", 
-      "XHTML", 
-      "SQL", 
-      "Model design", 
-      "Software design", "Bootstrap", 
-      "JQuery",
-      "Test driven development"
-    ], 
-    "type":"School project",
-    "description":"Functional analysis, database design, backend and frontend implementation of a ticket booking website for theaters."
-  },
-  {
-    "name":"Deca compiler", 
-    "skills":[
-      "Assembly",
-      "Java",
-      "Project management"
-    ], 
-    "type":"School project",
-    "description":"A compiler which takes Deca (a subset of Java) as an input and outputs Assembly for the Motorola 68000 (simulated)."
-  },
-  {
-    "name":"ENSIShell", "skills":[
-      "Concurent programming",
-      "libC",
-      "Process management"
-    ], 
-    "type":"School project", 
-    "description": "Implementation of a shell (using readline for parsing) which handles background jobs, pipes and globbing."
+    "type":"School project", "description":"Feasibility study, and implementation of attacks on HTTPS traffic over public wifi networks. Study of the consequences for the users' data and privacy."
   }
 ]

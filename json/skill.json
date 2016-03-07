@@ -6,7 +6,7 @@
   "js":["coffeescript","angularjs","jquery"],
   "sql":["sql", "mongodb", "nosql"],
   "low-level-programming":["libc","assembly"],
-  "system":["concurent programming","application security"],
+  "system":["concurrent programming","application security"],
   "unix":["unix administration", "memory and process management"],
   "network":["[2,4] of osi","network security"],
   "OSI7":["tcp","udp", "http", "dns", "sip", "webrtc", "application layer protocols"],

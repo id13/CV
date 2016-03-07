@@ -15,7 +15,7 @@
 
 body {
   font-family: 'Droid Sans', sans-serif;
-  font-size: 0.70em;
+  font-size: 0.65em;
 }
 
 h2 {
@@ -28,6 +28,13 @@ h3 {
 
 hr {
   clear: both;
+}
+
+hr.solid {
+  border: 0;
+  border-bottom: 1px solid black;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 hr.dashed {
@@ -48,6 +55,7 @@ hr.fancy {
     color: black;
     text-align: center;
 }
+
 hr.fancy:after {
     content: "§";
     display: inline-block;
