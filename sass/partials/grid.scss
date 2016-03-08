@@ -8,13 +8,12 @@ $zen-gutter-width: 10px;
 }
 
 .skillset {
-  font-size: 1.1em;
   @include zen-grid-item(4, 1);
 }
 
 .professional {
   @include zen-grid-item(8, 5);
-  border-left: 3px double black;
+  border-left: 1px solid black;
   padding-left: 10px;
 }
 

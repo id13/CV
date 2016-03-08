@@ -1,5 +1,4 @@
 .work-experience {
-  font-size: 1.11em;
   li {
     h3 {
       .company {
@@ -11,6 +10,7 @@
       }      
     }
     .desc {
+      text-align: justify;
       padding-bottom: 10px;
       .infos {
         margin-right: 10px;
