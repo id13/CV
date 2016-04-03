@@ -17,21 +17,18 @@
     "Data qualification"
   ],
   "Operating system":[
-    "libC",
-    "Assembly",
     "Memory and process management",
     "Unix administration",
-    "Concurrent programming",
-    "Hypervisors"
+    "Virtualization"
   ],
-  "DevOps":[
+  "Miscellaneous":[    
     "Software design",
     "Distributed systems",
     "Test driven development",
     "State of the art review",
     "Project management",
     "Restful architecture",
-    "Cloud orchestration"
+    "Deployment automation"
   ],
   "Languages":[
     "English ",

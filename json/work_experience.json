@@ -9,10 +9,7 @@
       "Network administration",
       "Unix administration",
       "Django",
-      "Cloud orchestration",
-      "KVM",
-      "Deployment automation",
-      "IBM Power technologies"
+      "Deployment automation"
     ],
     "date":"02/2016 - Actual"
   },
@@ -20,7 +17,7 @@
     "company":"Inch",
     "role":"Backend developer",
     "place":"Paris, France",
-    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup which helps property management professionals in their day-to-day business and in their communication with residents. Firstly as an intern, then as a freelance developer.",
+    "description":"Development of new products, features and codebase tests at Inch, a real estate management startup which helps property management professionals in their day-to-day business and in their communication with residents. Intern then freelance developer.",
     "skills":[
       "Ruby on Rails",
       "Database design",

@@ -8,7 +8,7 @@
       "TCP",
       "Software design"
     ],
-    "type":"School project", "description":"Implementation of a totally ordered multicast (TOM) library. Features a messaging layer on top of java.nio and a higher level of TOM callback to be used in a non-blocking way inside a project."
+    "type":"School project", "description":"Implementation of a totally ordered multicast library on top of java.nio."
   },
   {
     "name":"MitM attacks against HTTPS over public wifi networks", 
@@ -16,12 +16,22 @@
       "Layers [2,4] of OSI",
       "Network security",
       "State of the art review",
-      "DNS",
       "HTTP",
-      "TCP",
       "TLS",
       "Python"
     ], 
-    "type":"School project", "description":"Feasibility study, and implementation of attacks on HTTPS traffic over public wifi networks. Study of the consequences for the users' data and privacy."
+    "type":"School project", "description":"Feasibility study, and implementation of attacks on HTTPS traffic over public wifi networks, and their consequences on users' data and privacy."
+  },
+  {
+    "name":"Deca compiler", 
+    "skills":[
+      "Languages theory",
+      "Java",
+      "Software design",
+      "Assembly",
+      "Agile development"
+    ], 
+    "type":"School project",
+    "description":"A compiler which takes Deca (a subset of Java) as an input and outputs Assembly for the Motorola 68000 (simulated)."
   }
 ]
