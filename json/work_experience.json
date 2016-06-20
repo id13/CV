@@ -1,19 +1,5 @@
 [
   {
-    "company":"IBM",
-    "role":"Software engineering intern",
-    "place":"Montpellier, France",
-    "description":"Development of a Cloud PaaS to provide Proof of Technology as a Service at Benchmark Power Systems department. The project is based on both Openstack and IBM Power specific components.",
-    "skills":[
-      "OpenStack",
-      "Network administration",
-      "Unix administration",
-      "Django",
-      "Deployment automation"
-    ],
-    "date":"02/2016 - Actual"
-  },
-  {
     "company":"Inch",
     "role":"Backend developer",
     "place":"Paris, France",
